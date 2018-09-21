@@ -1,2 +1,3 @@
 include ':IMClient'
 include ':Rooster'
+include ':ChatAPP'
